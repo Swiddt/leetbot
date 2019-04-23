@@ -1,4 +1,4 @@
-## leetbot
+# leetbot
 A discord bot to keep track of our leetscore.
 
 ## Requirements
@@ -8,10 +8,10 @@ A discord bot to keep track of our leetscore.
 - token.t in root folder
 
 ## ToDo:
-# MVP:
+### MVP:
 - Score logic
 - print ranking logic
 
-# Nice to have:
+### Nice to have:
 - command for own rating and ranking
 - possibility to merge multiple log.csv
