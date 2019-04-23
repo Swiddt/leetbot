@@ -11,6 +11,7 @@ A discord bot to keep track of our leetscore.
 ### MVP:
 - Score logic
 - print ranking logic
+- correct guild id
 
 ### Nice to have:
 - command for own rating and ranking
