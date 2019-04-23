@@ -53,7 +53,7 @@ async def on_message(message):
 		#todo: logic for score_change
 		new_entry.scoreChange = 0
         await log_leet(new_entry)
-		await message.channel.send(f"```py\n{new_entry.name}: {new_entry.score_change}```")
+		await message.channel.send(f"```Python\n{new_entry.name}: {new_entry.score_change}```")
 
     elif "leetbot.kill" == message.content.lower():
         await client.close()
