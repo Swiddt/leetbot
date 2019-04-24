@@ -37,7 +37,7 @@ async def log_leet(entry):
 @client.event  # event decorator/wrapper
 async def on_ready():
     global nerdgasm
-    nerdgasm = client.get_guild(123456) #guild id
+    nerdgasm = client.get_guild(477173099461083156) #guild id
     print(f"We have logged in as {client.user}")
 
 
